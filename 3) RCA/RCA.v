@@ -39,5 +39,4 @@ module RCA(a,b,cin,cout,sum);
 	fa_df fa2(a[2],b[2],c2,sum[2],c3);
 	fa_df fa3(a[3],b[3],c3,sum[3],cout);
 	
-	
 endmodule
